@@ -1,0 +1,13 @@
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csprojAssemblyReference.cache
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Form1.resources
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.pdb
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\turkm\Source\Repos\WindowsForm\WindowsForm\obj\Debug\WindowsForm.csproj.CopyComplete
